@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LIJiongyi.
 - 👀 I’m studying computer science in Hong Kong Polytechnic University.
-- 🌱 I’m currently learning to be a full stack and a blockchain developer.
+- 🌱 I’m currently learning to be a full stack and also interested in security field.
 - 💞️ Personal website stay tuned.
 - 📫 How to reach me : ljyworkemail@gmail.com.
